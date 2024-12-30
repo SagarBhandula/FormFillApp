@@ -3,6 +3,12 @@
     <h1>Saidemy Student Registration!</h1>
     <p>Please fill in this form only!!</p>
     <hr>
+
+    <br>
+
+
+    <label for="name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Username" name="name" id="name" required>
     <br>
 
     <label for="email"><b>Email</b></label>
