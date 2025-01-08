@@ -3,40 +3,11 @@
     <h1>Saidemy Student Registration!</h1>
     <p>Please fill in this form only!!</p>
     <hr>
-
     <br>
 
 
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Username" name="name" id="name" required>
-    <br>
-
-
-    <label for="father"><b>Father Name</b></label>
-    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
-    <br>
-
-
-    <label for="mother"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
-    <br>
-
-
-    <label for="brother"><b>Brother Name</b></label>
-    <input type="text" placeholder="Enter Brother Name" name="brother" id="brother" required>
-    <br>
-
-    <label for="sister"><b>Sister Name</b></label>
-    <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
-    <br>
-
-
-    <label for="spouse"><b>Spouse Name</b></label>
-    <input type="text" placeholder="Enter Spouse Name" name="spouse" id="spouse" required>
-    <br>
-
-    <label for="son"><b>Son Name</b></label>
-    <input type="text" placeholder="Enter Son Name" name="son" id="son" required>
     <br>
 
 
